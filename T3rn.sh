@@ -10,4 +10,5 @@ echo -e '\e[35mTelegram Group :\e[35m @autosultan_group'
 echo "====================================================="
 echo -e "\e[0m"
 
-git clone https://github.com/Megaxuze/restart-t3rn.git
+# Run
+git clone https://github.com/zamzasalim/T3rn-Executor.git
