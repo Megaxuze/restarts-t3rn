@@ -11,4 +11,4 @@ echo "====================================================="
 echo -e "\e[0m"
 
 # Run
-git clone https://github.com/zamzasalim/T3rn-Executor.git
+git clone https://github.com/zamzasalim/restart-t3rn.git
